@@ -27,6 +27,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealKintaro&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/RealKintaro/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realkintaro&label=Profile%20views&color=0e75b6&style=flat" alt="realkintaro" /> </p>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
