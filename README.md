@@ -15,7 +15,7 @@
 - 💻 &nbsp; Python | Dart | Java | HTML | CSS | SQL | .NET | UML
 - 🌐 &nbsp; Android | flutter | J2EE
 - 🛢 &nbsp; MySQL | Firebase | Wamp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Oracle Database
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Oracle Database | OpenCv | Pandas | Seaborn | SkLearn
 
 <br>
 
