@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing IA models and Data cleaning.
 - 🎓 &nbsp; Studying Data Science, computer programming and Statistics.
 - 🌱 &nbsp; Enthusiast Artificial Intelligence and Business Intelligence .
-- ✍️ &nbsp; Playing video games and <a href="https://www.twitch.tv/realkintaro69">streaming</a>sometimes.
+- ✍️ &nbsp; Playing video games and streaming sometimes<a href="https://www.twitch.tv/realkintaro69" target="_blank" rel="noopener noreferrer">><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" width="30" /></a> .
 - ☕ &nbsp; I belive, that being optimistic is the solution. 
 
 <h3>🛠 Tech Stack</h3>
